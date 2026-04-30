@@ -1,0 +1,3 @@
+<?php 
+/* rotas da api */
+?>
