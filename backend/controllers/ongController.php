@@ -1,3 +1,0 @@
-<?php 
-/* Ong e membros */
-?>

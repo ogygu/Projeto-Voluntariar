@@ -1,3 +1,0 @@
-<?php 
-/* login e cadastro */
-?>
